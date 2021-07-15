@@ -21,7 +21,7 @@ public class ModelPessoa implements Serializable {
     private String id;
 
     @DynamoDBAttribute
-    private String name;
+    private String nome;
 
     @DynamoDBAttribute
     private int idade;
