@@ -1,6 +1,6 @@
 1 - Antes de tudo, vai na AWS, cria uma Tabela no DynamoDB
 2 - Pegue as Credenciais de User - AccesKey e SecretKey
-3 - Importante também saber a sua Zonde de Disponibilidade, pegue a Região
+3 - Importante também saber a sua Zona de de Disponibilidade, pegue a Região
 4 - Seguido todos os passos do Projeto, gera o Build com o Maven, para gerar o Jar
 5 - Vai na AWS em Elastic Beanstalk, cria um name para o projeto e Plataforma Java com a versão
 6 - Logo em seguida vai pedir para você fazer o Upload do JAR do seu projeto
